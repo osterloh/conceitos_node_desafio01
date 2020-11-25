@@ -6,9 +6,9 @@
     Introdução ao nodeJS
 </a></h2>
 
-<center>
-  <img alt="GIF projeto" src="assets/desafio01.gif" width="50%">
-</center>
+<div>
+  <img alt="GIF projeto" src="assets/desafio01.gif">
+</div>
 
 ## Descrição
 
