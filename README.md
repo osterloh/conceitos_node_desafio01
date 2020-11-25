@@ -7,12 +7,12 @@
 </a></h2>
 
 <center>
-  <img alt="GIF projeto" src="assets/desafio01.gif">
+  <img alt="GIF projeto" src="assets/desafio01.gif" width="50%">
 </center>
 
 ## Descrição
 
-- Este projeto foi desenvolvido com a finalidade de cumprir o desafio 01 do Bootacamp GoStack da Rocketseat, utilizando o <strong>[nodeJS](https://nodejs.org/)</strong> para fins de capacitação pessoal.
+- Este projeto foi desenvolvido com a finalidade de cumprir o desafio 01 do Bootacamp GoStack da [Rocketseat](https://rocketseat.com.br/), utilizando o <strong>[nodeJS](https://nodejs.org/)</strong> para fins de capacitação pessoal.
 - A finalidade desse projeto é para cadastrar os Repositórios com as Tecnologias de um DEV, atualizar os dados cadastrados, possibilidade de deltar esses dados e cadastrar Likes para esse repositório com as tecnologias desse dev.
 
 ## Etapas
